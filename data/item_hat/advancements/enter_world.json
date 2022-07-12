@@ -1,0 +1,10 @@
+{
+    "criteria": {
+        "enter_world": {
+            "trigger": "tick"
+        }
+    },
+    "rewards": {
+        "function": "item_hat:init"
+    }
+}
